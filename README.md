@@ -11,9 +11,7 @@
 
 ## 🔍 About Me
 
-I'm a passionate **Data Analyst** with experience in the **banking** and **pharmaceuticals** sectors, currently completing my **Master’s in Analytics at Northeastern University** (GPA: 3.92/4.0). I specialize in data storytelling through **dashboards, predictive modeling, workflow automation**, and **big data analytics** using tools like **SQL, Python, PySpark, Power BI, and Tableau**.
-
-With a foundation in **Information Technology**, I bring strong analytical thinking, attention to detail, and a love for simplifying complex datasets into meaningful insights.
+**Data Analyst** with hands-on experience in **banking** and **pharmaceuticals** sector, specializing in **predictive modelling**, **dashboard development**, **financial reporting**, **inventory analysis** and **risk assessment**. Recently completed **Masters in Analytics from Northeastern University** demonstrating skills in using tools like **SQL**, **Python**, **Power BI**, and **Tableau** to analyze complex data and develop insightful dashboard.
 
 ---
 
