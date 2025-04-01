@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Purva Kekan
 
-🎓 Master's in Analytics | 💼 Data Analyst | 📊 Data Storyteller | 💻 Tech Enthusiast
+🎓 Master's in Analytics | 💼 Data Analyst | 📊 Data Storyteller | 💻 Curious and Creative
 
 - 💌 kekan.p@northeastern.edu  
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/purva-prakash-kekan/)  
