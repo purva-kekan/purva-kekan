@@ -2,9 +2,10 @@
 
 🎓 Master's in Analytics | 💼 Data Analyst | 📊 Data Storyteller | 💻 Tech Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-purva--prakash--kekan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/purva-prakash-kekan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=google-chrome&style=flat-square)](https://www.datascienceportfol.io/kekanp)
-[![GitHub](https://img.shields.io/github/followers/purva-kekan?label=GitHub&style=social)](https://github.com/purva-kekan)
+- 💌 kekan.p@northeastern.edu  
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/purva-prakash-kekan/)  
+- 🌐 [Portfolio Website](https://www.datascienceportfol.io/kekanp)
+- 🌐 [Github](https://github.com/purva-kekan/)
 
 ---
 
