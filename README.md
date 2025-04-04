@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Purva Kekan
+# 👋 Hi there, I'm Purva
 
 🎓 Master's in Analytics | 💼 Data Analyst | 📊 Data Storyteller | 🤔🎨 Curious and Creative
 
