@@ -22,6 +22,3 @@
 📫 **Let’s connect!**  
 [LinkedIn](https://www.linkedin.com/in/purva-prakash-kekan/) • [Portfolio](https://purva-kekan.github.io/portfolio/) • [Email](mailto:purvakekan3@gmail.com)
 
-
-![Profile views](https://komarev.com/ghpvc/?username=purva-kekan&label=Profile%20views&color=0e75b6&style=flat)
-
