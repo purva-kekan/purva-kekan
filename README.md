@@ -11,11 +11,11 @@
 ---
 
 ## ✨ A little more about me
-- 🔍 I specialize in **geospatial dashboards, forecasting models, and NLP analytics**  
-- 📌 I’ve worked on projects like **Boston 311 Syringe Requests Dashboard** (geospatial + predictive modeling),  
-  **Atomic Habits NLP Concept Graph** (semantic networks), and **Respiratory Mortality Forecasting** (FastAPI + ML).  
-- 🌍 I believe data storytelling can help address **real-world equity challenges** in healthcare and community outcomes.  
-- 🎨 Outside of analytics, I enjoy **dance, design, and blending creativity with data**.  
+🔍 I specialize in **geospatial dashboards, forecasting models, and NLP analytics**  
+📌 I’ve worked on projects like **Boston 311 Syringe Requests Dashboard** (geospatial + predictive modeling), 
+**Atomic Habits NLP Concept Graph** (semantic networks), and **Respiratory Mortality Forecasting** (FastAPI + ML).  
+🌍 I believe data storytelling can help address **real-world equity challenges** in healthcare and community outcomes.  
+🎨 Outside of analytics, I enjoy **dance, design, and blending creativity with data**.  
 
 ---
 
