@@ -12,13 +12,14 @@
 
 **Data Analyst @ Ipserlab** | Passionate about transforming raw data into actionable insights that drive meaningful change
 
-I'm a recent graduate with a Master's in Analytics (GPA: 3.93/4.0) from Northeastern University, specializing in **data storytelling, behavioral analytics, and equity-driven solutions**. Currently driving 40% higher student engagement in mental health through NLP-powered behavioral analytics at Ipserlab.
+Hey there! I’m a Data Analyst who transforms messy data into insights that leaders can act on 30% to 45% more accurately. My work helps public health, healthcare and product teams make faster, cleaner and more confident decisions without the overwhelm. I specialize in simplifying complex datasets, building high clarity dashboards and unlocking the real story behind numbers so organizations can scale impact, efficiency and trust.
+
 
 🔍 **What drives me:** Using data + behavioral science to address real-world equity challenges in healthcare and community outcomes
 
-🚀 **Currently building:** [CAViO](https://github.com/purva-kekan) - an inclusive AI-driven travel platform
+🚀 **Currently building:** [CAVO](https://github.com/purva-kekan) - an inclusive AI-driven travel platform
 
-🌟 **Beyond analytics:** When I'm not diving into data, you'll find me dancing, designing, or exploring creative ways to visualize insights
+🌟 **Beyond analytics:** When I'm not diving into data, you'll find me dancing, designing or exploring creative ways to visualize insights
 
 ---
 
@@ -34,7 +35,7 @@ I'm a recent graduate with a Master's in Analytics (GPA: 3.93/4.0) from Northeas
 - Created NLP-powered concept graphs to extract key insights from behavioral science literature
 - Technologies: Python, NLP, Semantic Networks, Network Analysis
 
-### 🫁 Respiratory Mortality Forecasting
+### 🫁 [Respiratory Mortality Forecasting](https://github.com/purva-kekan/respiratory-mortality-system)
 **FastAPI + Machine Learning Pipeline**
 - Developed forecasting models to predict respiratory mortality trends
 - Technologies: FastAPI, Machine Learning, Python, Time Series Analysis
@@ -97,6 +98,6 @@ I'm always excited to collaborate on projects involving **data analytics, public
 <div align="center">
 
 ### ⚡ Fun Fact
-I believe the best insights come from blending creativity with data—whether that's through dance, design, or data visualization!
+I believe the best insights come from blending creativity with data whether that's through dance, design, or data visualization!
 
 </div>
