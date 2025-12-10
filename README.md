@@ -12,7 +12,7 @@
 
 ## 👩‍💼 About Me
 
-Data Analyst specializing in **predictive modeling, geospatial analytics, and NLP**. Increased student engagement by **40%** through behavioral analytics at Ipserlab. Passionate about turning complex data into actionable insights for healthcare and public health initiatives.
+Data Analyst specializing in **predictive modeling, geospatial analytics, and NLP**. Passionate about turning complex data into actionable insights for healthcare and public health initiatives.
 
 **Looking for:** Data Analyst | Business Intelligence Analyst | Healthcare Analytics roles
 
@@ -40,7 +40,7 @@ Predictive dashboard for Boston 311 service requests with **85% accuracy**. Buil
 ### 🧠 [Atomic Habits NLP Analysis](https://github.com/purva-kekan/atomichabits-nlp-project)
 Extracted **200+ behavioral concepts** using semantic network analysis. Python, spaCy, NetworkX.
 
-### 🫁 Respiratory Mortality Forecasting
+### 🫁 [Respiratory Mortality Forecasting](https://github.com/purva-kekan/respiratory-mortality-system)
 Time series forecasting with **92% accuracy**. FastAPI, Prophet, LSTM models.
 
 ---
