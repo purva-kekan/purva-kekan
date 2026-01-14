@@ -1,6 +1,6 @@
 <div align="center">
 
-# Purva Prakash Kekan
+# Purva Kekan
 
 **Data Analyst | MS Analytics @ Northeastern (GPA: 3.93/4.0) | Boston, MA**
 
