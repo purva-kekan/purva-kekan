@@ -20,16 +20,21 @@ AI-focused data professional specializing in **machine learning, NLP, and end-to
 
 ## 💼 Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
+**Machine Learning & AI**  
+Python (Pandas, NumPy), Scikit-learn, TensorFlow / PyTorch, time series modeling (Prophet, SARIMA), NLP (spaCy, TF‑IDF, embeddings), recommendation systems, model evaluation and tuning
 
-**Machine Learning & AI:** Supervised & time series modeling, NLP, recommendation systems, LLM-powered apps, model evaluation 
-**Data & Pipelines:** Python (Pandas, NumPy), SQL, dbt, REST APIs, ETL/ELT, MLOps fundamentals   
-**Analytics & Visualization:** Power BI, Tableau, ArcGIS, experiment dashboards, KPI reporting   
-**Tools:** Scikit-learn, TensorFlow/PyTorch, FastAPI, Docker, GitHub Actions, Databricks, AWS
+**Data Engineering & Pipelines**  
+Python, SQL, dbt, ETL/ELT workflows, REST APIs, data modeling, batch pipelines, GitHub Actions for automation, Databricks, basic Kafka-style streaming concepts
+
+**MLOps & Deployment**  
+FastAPI, Docker, CI/CD for ML/services, experiment tracking tools, containerized model deployment, monitoring and retraining workflows on cloud platforms
+
+**Databases & Storage**  
+PostgreSQL / SQL databases, NoSQL basics, normalized schemas, query optimization, working with large analytical datasets
+
+**Analytics & Visualization**  
+Power BI, Tableau, ArcGIS, dashboard design, KPI tracking, exploratory data analysis, Jupyter Notebook, Excel (advanced)
+
 
 ---
 
@@ -48,13 +53,20 @@ Implemented a production-style ML pipeline on 200K+ CDC records using **Prophet,
 
 ## 📊 Experience (Snapshot)
 
-**AI Data Analyst – IpserLab**  
-- Designed and maintained **ML pipelines** for geospatial recommendation models and behavior analytics using Python, SQL, dbt, and REST APIs.  
-- Collaborated with product and engineering to translate business needs into model features, dashboards, and user-facing AI capabilities.  
+**AI Analyst – IpserLab**  
+- Build Python + SQL pipelines to clean, join, and transform multi-source trip data into analysis-ready feature sets for recommendation and safety models.  
+- Partner with product and engineering to translate requirements into metrics, dashboards, and experiment designs for AI-powered trip search and planning.  
+- Prototype and evaluate ML/NLP approaches, then hand off production-ready logic to engineering for integration into user-facing flows.
 
-**Data & Analytics Roles – Healthcare and Finance**  
-- Built analytics dashboards, cohort analyses, and reporting for healthcare and banking stakeholders using SQL and BI tools.  
-- Supported ML initiatives with clean data layers, feature engineering, and experiment tracking.
+**Data & Analytics – Boston Public Health Commission / Kids At Risk Action (KARA - NGO) (Company Sponsored Capstone Projects)**  
+- Analyzed 60K+ public health records to build forecasting and cohort analyses that support program planning and operational decisions.  
+- Designed and maintained Power BI/Tableau dashboards to monitor KPIs for clinics, programs, and population health initiatives.  
+- Collaborated with cross-functional teams to define data requirements, validate data quality, and document metric definitions.
+
+**Data & Analytics – HDFC Bank Ltd**  
+- Developed SQL-based ETL and reporting for 100K+ customer and account records, improving data quality and reducing manual reporting effort.  
+- Built dashboards and ad-hoc analyses for risk, compliance, and product teams to track portfolio performance and customer behavior.  
+- Worked with stakeholders to prioritize analytics requests, refine requirements, and iterate on dashboard and report designs.
 
 ---
 
