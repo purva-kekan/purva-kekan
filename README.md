@@ -1,83 +1,118 @@
 <div align="center">
 
-# Purva Kekan
+# Purva Prakash Kekan
 
-**AI Data Analyst | MS Analytics @ Northeastern (GPA: 3.93/4.0) | Boston, MA**
+**AI Analyst | Building LLM-Powered Systems | MS Analytics @ Northeastern (3.93 GPA)**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://purva-kekan.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purva-kekan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purvakekan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purva-prakash-kekan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purvakekan3@gmail.com)
 
 </div>
 
-## 👩‍💼 About Me
+---
 
-AI-focused data professional specializing in **machine learning, NLP, and end-to-end data/ML pipelines** for analytics and decision support in healthcare, finance, and customer-facing products. I enjoy designing systems that take raw data from ingestion to deployed models and actionable insights.
+## 👋 About Me
 
-**Targeting:** AI Engineer | ML Engineer | Data/AI Analyst roles
+AI Analyst specializing in **LLMs, RAG systems, and production ML infrastructure**. Currently building **CAVO** at IpserLab—an AI-powered travel platform leveraging retrieval-augmented generation and recommendation systems.
+
+I design and deploy **end-to-end AI/ML solutions**: from ETL pipelines and feature engineering to model deployment with Docker, Kubernetes, and AWS. Previous experience includes data engineering at **HDFC Bank** (India's largest private bank, 500K+ records) and advanced analytics at **Northeastern University** (3.93 GPA).
+
+**Seeking:** AI Engineer | ML Engineer | Data Scientist roles focused on LLMs, MLOps, and production AI systems
+
+📍 **Boston, MA | Open to Relocation Across US**
 
 ---
 
-## 💼 Technical Skills
+## 🛠️ Technical Stack
 
-**Machine Learning & AI**  
-Python (Pandas, NumPy), Scikit-learn, TensorFlow / PyTorch, time series modeling (Prophet, SARIMA), NLP (spaCy, TF‑IDF, embeddings), recommendation systems, model evaluation and tuning
+### **AI/ML & LLMs**
+`Python` `Scikit-learn` `XGBoost` `TensorFlow Serving` `TorchServe` `SARIMA` `Recommendation Systems` `LLMs` `RAG` `LangChain` `LlamaIndex` `LangGraph` `Haystack` `Hugging Face Transformers` `OpenAI API` `GPT-4V`
 
-**Data Engineering & Pipelines**  
-Python, SQL, dbt, ETL/ELT workflows, REST APIs, data modeling, batch pipelines, GitHub Actions for automation, Databricks, basic Kafka-style streaming concepts
+### **Data Engineering & Databases**
+`ETL Pipelines` `Data Modeling` `dbt` `Apache Spark` `Ray` `Kafka` `Celery` `Alembic` `NGINX` `PostgreSQL` `Redis` `Feast` `FAISS` `Chroma` `SQL` `Pandas` `NumPy`
 
-**MLOps & Deployment**  
-FastAPI, Docker, CI/CD for ML/services, experiment tracking tools, containerized model deployment, monitoring and retraining workflows on cloud platforms
+### **MLOps & Infrastructure**
+`MLflow` `Weights & Biases` `LangSmith` `DVC` `Phoenix (Arize AI)` `AWS (S3, SageMaker)` `Databricks` `Docker` `Kubernetes` `Terraform` `GitHub Actions CI/CD` `Prometheus` `Grafana` `FastAPI`
 
-**Databases & Storage**  
-PostgreSQL / SQL databases, NoSQL basics, normalized schemas, query optimization, working with large analytical datasets
-
-**Analytics & Visualization**  
-Power BI, Tableau, ArcGIS, dashboard design, KPI tracking, exploratory data analysis, Jupyter Notebook, Excel (advanced)
-
+### **Business Intelligence & Visualization**
+`Power BI` `Tableau` `Looker Studio` `Streamlit` `Excel` `DAX` `Matplotlib` `Seaborn` `PyVis` `NetworkX` `ArcGIS`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 [Healthcare Geospatial Analytics](https://github.com/purva-kekan/healthcare-analytics-geospatial-analysis)
-Built an end-to-end pipeline and **interactive geospatial dashboard** for Boston 311 service and health-related signals, combining Python, SQL, and ArcGIS to surface location-based risk patterns. Deployed analytics in Power BI for non-technical stakeholders.
+### 🤖 [Atomic Habits: Semantic Relationship Mapping](https://github.com/purva-kekan/atomichabits-nlp-project)
+RAG-based semantic mapping app with interactive data visualization for 50+ concepts from James Clear's "Atomic Habits." Built using **LangChain, LlamaIndex, and LangGraph** for advanced NLP processing, with **FAISS and Chroma** for vector similarity search. Features interactive **PyVis** concept network graphs.
 
-### 🧠 [Atomic Habits NLP + GenAI App](https://github.com/purva-kekan/atomichabits-nlp-project)
-Developed an NLP + GenAI app using **Hugging Face LLMs, spaCy, and TF‑IDF clustering** to extract and visualize 50+ behavior patterns from “Atomic Habits” [cite:13]. Delivered an end-to-end Streamlit experience from text ingestion to semantic network exploration.
+**Tech Stack:** LangChain, LlamaIndex, LangGraph, Hugging Face Transformers, FAISS, Chroma, Streamlit, PyVis, NetworkX  
+**[Live Demo](https://atomic-habits-nlp.streamlit.app/)**
 
-### 🫁 [Respiratory Mortality ML System](https://github.com/purva-kekan/respiratory-mortality-system)
-Implemented a production-style ML pipeline on 200K+ CDC records using **Prophet, LSTM, and geospatial features** to forecast respiratory mortality risk and surface city-level hotspots. Exposed model predictions via FastAPI with containerized deployment and monitoring.
+### 🫁 [Respiratory Mortality Analysis System](https://github.com/purva-kekan/respiratory-mortality-system)
+Scalable ML and data pipeline platform for real-time predictions on **200K+ CDC respiratory records**. Built production-grade infrastructure with **FastAPI** for high-performance API endpoints, **Redis** for caching, and **Celery** for asynchronous task processing. Deployed on **AWS S3** with comprehensive data preprocessing and ML models using **Scikit-learn**.
+
+**Tech Stack:** Scikit-learn, Pandas, NumPy, FastAPI, NGINX, Redis, AWS S3, Celery, Alembic
+
+### 🏥 [Boston 311 Opioid Crisis: Geospatial Analytics & Forecasting](https://github.com/purva-kekan/healthcare-analytics-geospatial-analysis)
+ML forecasting platform analyzing **3M+ Boston 311 service request records**, achieving **15% demand reduction** post-policy implementation. Built comprehensive geospatial analytics using **ArcGIS** to map opioid-related incidents. Developed **SARIMA** time-series forecasting models and interactive **Power BI** dashboards with advanced **DAX** measures.
+
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, SARIMA, DAX, PostgreSQL, ArcGIS
 
 ---
 
-## 📊 Experience (Snapshot)
+## 💼 Professional Experience
 
-**AI Analyst – IpserLab**  
-- Build Python + SQL pipelines to clean, join, and transform multi-source trip data into analysis-ready feature sets for recommendation and safety models.  
-- Partner with product and engineering to translate requirements into metrics, dashboards, and experiment designs for AI-powered trip search and planning.  
-- Prototype and evaluate ML/NLP approaches, then hand off production-ready logic to engineering for integration into user-facing flows.
+### **AI Analyst** | IpserLab | *May 2025 – Present*
+Building **CAVO**, an AI-powered travel-planning platform leveraging LLMs, RAG, and recommendation systems
 
-**Data & Analytics – Boston Public Health Commission / Kids At Risk Action (KARA - NGO) (Company Sponsored Capstone Projects)**  
-- Analyzed 60K+ public health records to build forecasting and cohort analyses that support program planning and operational decisions.  
-- Designed and maintained Power BI/Tableau dashboards to monitor KPIs for clinics, programs, and population health initiatives.  
-- Collaborated with cross-functional teams to define data requirements, validate data quality, and document metric definitions.
+- Engineered end-to-end Python and SQL **ETL pipelines** using **LangChain, RAG, and GitHub Actions CI/CD**, cutting failed pipeline runs by **~30%** and reducing iteration time by **~25%**
+- Designed reusable ML feature datasets with **Feast and FAISS** vector similarity search to support real-time itinerary and travel recommendation experiments
+- Built Python **data validation and anomaly detection** layer for RAG pipeline with **Prometheus monitoring** and hybrid search (BM25 + vector similarity), reducing low-quality outputs by **~30%**
+- Developed internal **Streamlit and Power BI** dashboards wired to **Weights & Biases, LangSmith, and OpenAI API/GPT-4V** to debug conversation flows, cutting model triage time by **~30%**
+- Prototyped containerized ML services with **Docker and Kubernetes** on **AWS and Databricks**, reducing **40% setup effort** for new experiments
 
-**Data & Analytics – HDFC Bank Ltd**  
-- Developed SQL-based ETL and reporting for 100K+ customer and account records, improving data quality and reducing manual reporting effort.  
-- Built dashboards and ad-hoc analyses for risk, compliance, and product teams to track portfolio performance and customer behavior.  
-- Worked with stakeholders to prioritize analytics requests, refine requirements, and iterate on dashboard and report designs.
+### **Data Engineer** | HDFC Bank Ltd | *Aug 2022 – Aug 2023*
+India's largest private sector bank with $21B+ annual revenue, 173,000+ employees
+
+- Built SQL-based **ETL transformations and data models** for credit risk analytics on **500K+ financial records** using **AWS SageMaker Feature Store, Tecton, and BigQuery**, reducing lineage rework by **40%**
+- Automated batch and incremental data pipelines with **Python and dbt**, using **DVC and Terraform** to enforce data governance, reducing prediction conflicts by **20%** in regulatory reporting
+- Increased processing efficiency by **35%** with **Apache Spark** for distributed computing and **Ray** for parallel processing; designed **Kafka** streaming pipelines for real-time ingestion, improving operational efficiency by **45%**
+- Established production-grade monitoring for ML services using **TensorFlow Serving, TorchServe, and Grafana** with **Phoenix (Arize AI)** integration
+- Implemented **MLflow-based experiment tracking and model versioning** integrated with **Haystack NLP pipelines and Weights & Biases**
+
+---
+
+## 🎓 Education
+
+**Master of Science in Analytics** | Northeastern University | *Sept 2023 – May 2025*  
+GPA: **3.93/4.0** | CPS Scholars and Leader Award
+
+**Bachelor of Science in Information Technology** | Mumbai University | *Sept 2020 – May 2023*  
+GPA: **3.70/4.0**
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purva-kekan&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purva-kekan&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
-**Open to:** Full-time AI Engineer / ML Engineer / AI-focused Data Analyst roles
+**Open to:** AI Engineer | ML Engineer | Data Scientist roles (Full-time)  
+**Location:** Boston, MA | **Open to Relocation Across US**
 
 <div align="center">
 
 [![View Portfolio](https://img.shields.io/badge/📂_View_Portfolio-Click_Here-FF5722?style=for-the-badge)](https://purva-kekan.github.io/portfolio/)
 
-*Building data and AI systems that move from prototype notebooks to real-world impact*
+*Transforming complex data challenges into scalable AI solutions that drive real-world impact*
 
 </div>
